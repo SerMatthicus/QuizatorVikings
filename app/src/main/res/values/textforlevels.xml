@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvlone0">Ноль</string>
+    <string name="lvlone1">Один</string>
+    <string name="lvlone2">Два</string>
+    <string name="lvlone3">Три</string>
+    <string name="lvlone4">Четыре</string>
+    <string name="lvlone5">Пять</string>
+    <string name="lvlone6">Шесть</string>
+    <string name="lvlone7">Семь</string>
+    <string name="lvlone8">Восемь</string>
+    <string name="lvlone9">Девять</string>
+    // уровень 2
+    <string name="lvltwo1">I</string>
+    <string name="lvltwo2">II</string>
+    <string name="lvltwo3">III</string>
+    <string name="lvltwo4">IV</string>
+    <string name="lvltwo5">V</string>
+    <string name="lvltwo6">VI</string>
+    <string name="lvltwo7">VII</string>
+    <string name="lvltwo8">VIII</string>
+    <string name="lvltwo9">IX</string>
+    <string name="lvltwo10">X</string>
+    // уровень 3
+    <string name="lvlthree1">первое</string>
+    <string name="lvlthree2">второе</string>
+    <string name="lvlthree3">третье</string>
+    <string name="lvlthree4">четвертое</string>
+    <string name="lvlthree5">пятое</string>
+    <string name="lvlthree6">шестое</string>
+    <string name="lvlthree7">седьмое</string>
+    <string name="lvlthree8">восьмое</string>
+    <string name="lvlthree9">девятое</string>
+    <string name="lvlthree10">десятое</string>
+
+    // уровень 4
+    <string name="lvlfour1">первое</string>
+    <string name="lvltfour2">второе</string>
+    <string name="lvltfour3">третье</string>
+    <string name="lvltfour4">четвертое</string>
+    <string name="lvlfour5">пятое</string>
+    <string name="lvlfour6">шестое</string>
+    <string name="lvlfour7">седьмое</string>
+    <string name="lvlfour8">восьмое</string>
+    <string name="lvlfour9">девятое</string>
+    <string name="lvlfour10">десятое</string>
+
+    // уровень 5
+    <string name="lvlfive1">первое</string>
+    <string name="lvltfive2">второе</string>
+    <string name="lvltfive3">третье</string>
+    <string name="lvltfive4">четвертое</string>
+    <string name="lvlfive">пятое</string>
+    <string name="lvlfive6">шестое</string>
+    <string name="lvlfive7">седьмое</string>
+    <string name="lvlfive8">восьмое</string>
+    <string name="lvlfive9">девятое</string>
+    <string name="lvlfive10">десятое</string>
+</resources>
